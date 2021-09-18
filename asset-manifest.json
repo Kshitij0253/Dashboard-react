@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dash-react/static/css/main.815177bf.chunk.css",
+    "main.js": "/dash-react/static/js/main.aaf60310.chunk.js",
+    "main.js.map": "/dash-react/static/js/main.aaf60310.chunk.js.map",
+    "runtime-main.js": "/dash-react/static/js/runtime-main.49e916ea.js",
+    "runtime-main.js.map": "/dash-react/static/js/runtime-main.49e916ea.js.map",
+    "static/js/2.e5ecca8f.chunk.js": "/dash-react/static/js/2.e5ecca8f.chunk.js",
+    "static/js/2.e5ecca8f.chunk.js.map": "/dash-react/static/js/2.e5ecca8f.chunk.js.map",
+    "static/js/3.7115bfef.chunk.js": "/dash-react/static/js/3.7115bfef.chunk.js",
+    "static/js/3.7115bfef.chunk.js.map": "/dash-react/static/js/3.7115bfef.chunk.js.map",
+    "index.html": "/dash-react/index.html",
+    "static/css/main.815177bf.chunk.css.map": "/dash-react/static/css/main.815177bf.chunk.css.map",
+    "static/js/2.e5ecca8f.chunk.js.LICENSE.txt": "/dash-react/static/js/2.e5ecca8f.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/dash-react/static/media/boxicons.cbd149c5.ttf",
+    "static/media/logo.ef7bfcda.png": "/dash-react/static/media/logo.ef7bfcda.png",
+    "static/media/tuat.7ec76cec.png": "/dash-react/static/media/tuat.7ec76cec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49e916ea.js",
+    "static/js/2.e5ecca8f.chunk.js",
+    "static/css/main.815177bf.chunk.css",
+    "static/js/main.aaf60310.chunk.js"
+  ]
+}
